@@ -2,7 +2,7 @@
 
 Tic tac toe tutorial from React docs. Using vite template with React + TypeScript. 
 
-<br />
+<hr />
 
 ## React + TypeScript + Vite
 
