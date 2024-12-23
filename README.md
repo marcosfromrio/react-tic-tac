@@ -1,7 +1,9 @@
 # React tutorial
 
 Tic tac toe tutorial from React docs. Using vite template with React + TypeScript. 
+
 To run this project, follow the steps:
+
 1 - `git clone https://github.com/marcosfromrio/react-tic-tac`
 2 - `cd react-tic-tac`
 3 - `npm install`
