@@ -1,6 +1,6 @@
 # React tutorial
 
-Tic tac tutorial from React docs. Using vite template with React + TypeScript. 
+Tic tac toe tutorial from React docs. Using vite template with React + TypeScript. 
 
 --
 
